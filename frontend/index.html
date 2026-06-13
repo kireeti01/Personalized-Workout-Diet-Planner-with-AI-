@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personalized Workout & Diet Planner</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header>
+        <div class="h-title-wrapper">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <rect x="2" y="2" width="20" height="20" rx="6" fill="#6366f1" />
+                <path d="M7 12l3 3 7-7" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <h1>Personalized Workout & Diet Planner</h1>
+        </div>
+        <p>Create smarter plans based on your profile, goals, budget, and equipment.</p>
+    </header>
+
+    <main>
+        <section class="card" id="auth-card">
+            <div class="tab-buttons">
+                <button id="show-register">Register</button>
+                <button id="show-login">Login</button>
+            </div>
+            <div class="tab-panel" id="register-panel">
+                <h2>Register</h2>
+                <form id="register-form">
+                    <label>Name<input type="text" id="register-name" required /></label>
+                    <label>Email<input type="email" id="register-email" required /></label>
+                    <label>Password<input type="password" id="register-password" required /></label>
+                    <button type="submit">Create Account</button>
+                </form>
+            </div>
+            <div class="tab-panel hidden" id="login-panel">
+                <h2>Login</h2>
+                <form id="login-form">
+                    <label>Email<input type="email" id="login-email" required /></label>
+                    <label>Password<input type="password" id="login-password" required /></label>
+                    <button type="submit">Login</button>
+                </form>
+            </div>
+        </section>
+
+        <section class="card hidden" id="profile-card">
+            <h2>Fitness Profile</h2>
+            <form id="profile-form">
+                <label>Age<input type="number" id="age" min="15" max="80" required /></label>
+                <label>Gender<select id="gender" required>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    <option value="Other">Other</option>
+                </select></label>
+                <label>Height (cm)<input type="number" id="height" min="120" max="230" required /></label>
+                <label>Weight (kg)<input type="number" id="weight" min="35" max="150" required /></label>
+                <label>Fitness Goal<select id="fitness_goal" required>
+                    <option value="Weight Loss">Weight Loss</option>
+                    <option value="Maintenance">Maintenance</option>
+                    <option value="Muscle Gain">Muscle Gain</option>
+                </select></label>
+                <label>Activity Level<select id="activity_level" required>
+                    <option value="Sedentary">Sedentary</option>
+                    <option value="Light">Light</option>
+                    <option value="Moderate">Moderate</option>
+                    <option value="Active">Active</option>
+                    <option value="Very Active">Very Active</option>
+                </select></label>
+                <label>Budget<select id="budget" required>
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select></label>
+                <label>Dietary Preference<select id="dietary_preference" required>
+                    <option value="Balanced">Balanced</option>
+                    <option value="Vegetarian">Vegetarian</option>
+                    <option value="High-Protein">High-Protein</option>
+                    <option value="Low-Calorie">Low-Calorie</option>
+                </select></label>
+                <label>Available Equipment<select id="available_equipment" required>
+                    <option value="Bodyweight">Bodyweight</option>
+                    <option value="Basic">Basic</option>
+                    <option value="Gym">Gym</option>
+                </select></label>
+                <label>Health Conditions<select id="health_conditions" required>
+                    <option value="None">None</option>
+                    <option value="Joint Pain">Joint Pain</option>
+                    <option value="Diabetes">Diabetes</option>
+                    <option value="Hypertension">Hypertension</option>
+                </select></label>
+                <button type="submit">Save Profile & Get Recommendation</button>
+            </form>
+        </section>
+
+        <section class="card hidden" id="recommendation-card">
+            <h2>AI Recommendation</h2>
+            <div id="recommendation-output"></div>
+            <button id="refresh-button">Refresh Recommendation</button>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

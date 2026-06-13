@@ -1,0 +1,361 @@
+Age,Gender,Height,Weight,BMI,FitnessGoal,ActivityLevel,Budget,DietaryPreference,AvailableEquipment,HealthCondition,WorkoutCategory,MealCategory
+33,Male,155,80,33.3,Maintenance,Active,Medium,Balanced,Gym,None,Intermediate-Gym,Balanced
+25,Female,150,88,39.1,Weight Loss,Moderate,High,High-Protein,Basic,None,Cardio-Focus,Balanced
+24,Other,155,61,25.4,Weight Loss,Light,Medium,Balanced,Basic,None,Beginner-Home,Low-Calorie
+25,Male,187,93,26.6,Weight Loss,Active,Medium,Balanced,Bodyweight,Hypertension,Low-Impact,Balanced
+19,Male,187,53,15.2,Maintenance,Moderate,High,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+21,Male,173,83,27.7,Weight Loss,Very Active,High,Balanced,Bodyweight,Hypertension,Low-Impact,Balanced
+19,Female,158,75,30.0,Weight Loss,Active,Low,Vegetarian,Gym,None,Cardio-Focus,Low-Calorie
+25,Other,180,91,28.1,Maintenance,Active,Medium,Balanced,Basic,None,Beginner-Home,Balanced
+39,Other,172,76,25.7,Weight Loss,Moderate,Medium,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+42,Other,156,58,23.8,Muscle Gain,Moderate,Low,Balanced,Basic,Hypertension,Low-Impact,Balanced
+28,Other,172,50,16.9,Weight Loss,Moderate,Medium,Vegetarian,Bodyweight,None,Cardio-Focus,Low-Calorie
+20,Male,188,75,21.2,Muscle Gain,Moderate,Medium,Vegetarian,Basic,None,Strength-Focus,High-Protein
+29,Female,184,72,21.3,Weight Loss,Sedentary,Medium,Balanced,Gym,None,Beginner-Home,Low-Calorie
+39,Other,167,61,21.9,Muscle Gain,Active,Low,Vegetarian,Bodyweight,None,Intermediate-Gym,High-Protein
+34,Male,151,72,31.6,Maintenance,Sedentary,Medium,Balanced,Gym,None,Intermediate-Gym,Balanced
+26,Female,187,72,20.6,Weight Loss,Moderate,Medium,Vegetarian,Bodyweight,Hypertension,Low-Impact,Balanced
+36,Male,186,92,26.6,Muscle Gain,Active,Medium,Balanced,Basic,None,Strength-Focus,High-Protein
+19,Female,176,57,18.4,Maintenance,Light,Medium,Balanced,Bodyweight,None,Beginner-Home,Balanced
+38,Other,155,61,25.4,Weight Loss,Moderate,High,Balanced,Basic,Joint Pain,Low-Impact,Balanced
+43,Female,182,90,27.2,Weight Loss,Moderate,Low,Balanced,Basic,None,Cardio-Focus,Low-Calorie
+35,Other,150,53,23.6,Muscle Gain,Light,High,High-Protein,Basic,None,Strength-Focus,High-Protein
+40,Other,178,89,28.1,Maintenance,Sedentary,Medium,Balanced,Basic,None,Beginner-Home,Balanced
+36,Other,151,75,32.9,Weight Loss,Moderate,Medium,Vegetarian,Bodyweight,None,Cardio-Focus,Low-Calorie
+18,Male,174,78,25.8,Weight Loss,Moderate,Medium,Vegetarian,Bodyweight,None,Cardio-Focus,Low-Calorie
+25,Male,174,57,18.8,Muscle Gain,Light,Medium,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+36,Male,162,94,35.8,Maintenance,Active,Medium,Balanced,Basic,None,Beginner-Home,Balanced
+34,Other,181,71,21.7,Weight Loss,Moderate,Medium,High-Protein,Basic,Diabetes,Low-Impact,Balanced
+27,Male,177,91,29.0,Weight Loss,Very Active,High,High-Protein,Bodyweight,Hypertension,Low-Impact,Balanced
+28,Female,161,93,35.9,Muscle Gain,Moderate,High,Balanced,Basic,None,Strength-Focus,High-Protein
+21,Other,175,55,18.0,Muscle Gain,Sedentary,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+32,Female,156,79,32.5,Maintenance,Active,Medium,Balanced,Basic,Hypertension,Low-Impact,Balanced
+32,Male,178,55,17.4,Maintenance,Active,Medium,Vegetarian,Bodyweight,None,Beginner-Home,Balanced
+39,Male,183,74,22.1,Muscle Gain,Light,Medium,Balanced,Bodyweight,Diabetes,Low-Impact,Balanced
+18,Male,171,59,20.2,Maintenance,Sedentary,Medium,Balanced,Gym,None,Intermediate-Gym,Balanced
+33,Female,155,50,20.8,Weight Loss,Light,Medium,High-Protein,Basic,Hypertension,Low-Impact,Balanced
+18,Male,154,94,39.6,Maintenance,Sedentary,Low,Balanced,Bodyweight,None,Beginner-Home,Balanced
+21,Female,163,71,26.7,Weight Loss,Moderate,Medium,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+36,Male,159,77,30.5,Maintenance,Light,Low,High-Protein,Bodyweight,None,Beginner-Home,Balanced
+27,Male,165,81,29.8,Maintenance,Moderate,Low,Vegetarian,Bodyweight,None,Beginner-Home,Balanced
+27,Male,154,93,39.2,Maintenance,Very Active,High,Vegetarian,Gym,None,Intermediate-Gym,Balanced
+20,Male,161,88,33.9,Weight Loss,Very Active,Low,Balanced,Bodyweight,Hypertension,Low-Impact,Balanced
+28,Male,171,77,26.3,Maintenance,Moderate,Low,Balanced,Bodyweight,None,Beginner-Home,Balanced
+22,Male,153,73,31.2,Weight Loss,Active,Low,Low-Calorie,Basic,None,Cardio-Focus,Low-Calorie
+19,Female,173,81,27.1,Muscle Gain,Sedentary,Medium,Balanced,Gym,None,Strength-Focus,High-Protein
+37,Other,165,77,28.3,Maintenance,Moderate,Low,Low-Calorie,Bodyweight,Diabetes,Low-Impact,Balanced
+29,Female,175,94,30.7,Weight Loss,Moderate,Medium,High-Protein,Gym,None,Cardio-Focus,Low-Calorie
+36,Other,189,73,20.4,Maintenance,Moderate,Medium,Low-Calorie,Bodyweight,None,Beginner-Home,Balanced
+35,Female,151,62,27.2,Muscle Gain,Light,Medium,Balanced,Bodyweight,Hypertension,Low-Impact,Balanced
+17,Other,172,61,20.6,Weight Loss,Sedentary,Low,Balanced,Gym,None,Beginner-Home,Low-Calorie
+29,Female,165,69,25.3,Weight Loss,Light,Medium,Vegetarian,Basic,None,Beginner-Home,Low-Calorie
+20,Female,170,91,31.5,Weight Loss,Active,Medium,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+19,Other,181,84,25.6,Muscle Gain,Active,Low,Vegetarian,Gym,Joint Pain,Low-Impact,Balanced
+40,Other,172,88,29.7,Muscle Gain,Moderate,Medium,Low-Calorie,Gym,None,Strength-Focus,High-Protein
+17,Female,181,63,19.2,Weight Loss,Light,Medium,High-Protein,Bodyweight,None,Beginner-Home,Low-Calorie
+44,Other,156,67,27.5,Weight Loss,Active,Low,Balanced,Gym,None,Cardio-Focus,Low-Calorie
+43,Other,156,71,29.2,Maintenance,Sedentary,Low,High-Protein,Basic,None,Beginner-Home,Balanced
+21,Other,175,70,22.9,Weight Loss,Moderate,Medium,Balanced,Basic,None,Cardio-Focus,Low-Calorie
+42,Other,155,71,29.6,Maintenance,Sedentary,Medium,High-Protein,Gym,None,Intermediate-Gym,Balanced
+36,Female,156,86,35.3,Weight Loss,Moderate,Medium,Low-Calorie,Gym,None,Cardio-Focus,Low-Calorie
+24,Other,158,69,27.6,Muscle Gain,Moderate,High,Vegetarian,Gym,None,Strength-Focus,High-Protein
+39,Female,185,94,27.5,Muscle Gain,Very Active,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+21,Female,155,89,37.0,Maintenance,Moderate,Medium,Balanced,Basic,None,Beginner-Home,Balanced
+28,Other,184,81,23.9,Maintenance,Light,Medium,Balanced,Bodyweight,None,Beginner-Home,Balanced
+42,Male,169,56,19.6,Maintenance,Very Active,High,Balanced,Basic,None,Beginner-Home,Balanced
+36,Female,179,78,24.3,Muscle Gain,Very Active,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+37,Other,166,85,30.8,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+36,Other,187,53,15.2,Maintenance,Light,Medium,Balanced,Bodyweight,None,Beginner-Home,Balanced
+39,Other,162,66,25.1,Weight Loss,Light,High,Balanced,Basic,Joint Pain,Low-Impact,Balanced
+21,Male,168,86,30.5,Weight Loss,Light,Medium,Vegetarian,Basic,None,Beginner-Home,Low-Calorie
+36,Other,150,77,34.2,Maintenance,Moderate,Medium,Balanced,Gym,None,Intermediate-Gym,Balanced
+22,Male,155,63,26.2,Maintenance,Moderate,Medium,High-Protein,Bodyweight,None,Beginner-Home,Balanced
+25,Other,179,56,17.5,Muscle Gain,Moderate,Medium,Low-Calorie,Bodyweight,None,Intermediate-Gym,High-Protein
+34,Female,174,75,24.8,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+36,Other,151,90,39.5,Muscle Gain,Sedentary,Medium,High-Protein,Gym,None,Strength-Focus,High-Protein
+21,Male,152,85,36.8,Maintenance,Moderate,Medium,Balanced,Bodyweight,None,Beginner-Home,Balanced
+23,Other,153,66,28.2,Maintenance,Sedentary,High,Vegetarian,Bodyweight,None,Beginner-Home,Balanced
+43,Other,174,89,29.4,Muscle Gain,Moderate,High,High-Protein,Gym,Joint Pain,Low-Impact,Balanced
+34,Male,169,75,26.3,Weight Loss,Light,Medium,Vegetarian,Bodyweight,Hypertension,Low-Impact,Balanced
+41,Other,161,78,30.1,Weight Loss,Sedentary,Medium,Vegetarian,Basic,Joint Pain,Low-Impact,Balanced
+30,Other,169,50,17.5,Weight Loss,Sedentary,Low,Vegetarian,Basic,Hypertension,Low-Impact,Balanced
+22,Male,153,75,32.0,Muscle Gain,Sedentary,High,High-Protein,Bodyweight,None,Intermediate-Gym,High-Protein
+33,Female,169,77,27.0,Weight Loss,Moderate,Low,High-Protein,Bodyweight,Diabetes,Low-Impact,Balanced
+17,Male,172,92,31.1,Maintenance,Moderate,Medium,Low-Calorie,Bodyweight,Diabetes,Low-Impact,Balanced
+44,Female,188,64,18.1,Muscle Gain,Sedentary,Low,Balanced,Basic,None,Strength-Focus,High-Protein
+39,Other,166,70,25.4,Weight Loss,Active,High,High-Protein,Gym,None,Cardio-Focus,Balanced
+28,Female,153,74,31.6,Maintenance,Very Active,Medium,Vegetarian,Bodyweight,None,Beginner-Home,Balanced
+17,Other,165,78,28.7,Maintenance,Moderate,Low,Balanced,Gym,None,Intermediate-Gym,Balanced
+32,Male,183,94,28.1,Weight Loss,Moderate,Low,High-Protein,Gym,Joint Pain,Low-Impact,Balanced
+19,Other,186,70,20.2,Weight Loss,Active,Medium,Low-Calorie,Bodyweight,None,Cardio-Focus,Low-Calorie
+44,Other,150,50,22.2,Maintenance,Moderate,Medium,Balanced,Basic,None,Beginner-Home,Balanced
+17,Other,160,52,20.3,Maintenance,Active,Medium,High-Protein,Bodyweight,None,Beginner-Home,Balanced
+35,Male,171,70,23.9,Muscle Gain,Light,Low,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+18,Male,182,70,21.1,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,Diabetes,Low-Impact,Balanced
+19,Other,185,65,19.0,Maintenance,Moderate,Medium,High-Protein,Bodyweight,None,Beginner-Home,Balanced
+30,Other,164,67,24.9,Maintenance,Moderate,Medium,Balanced,Bodyweight,Diabetes,Low-Impact,Balanced
+25,Other,180,54,16.7,Muscle Gain,Moderate,Medium,Balanced,Gym,None,Strength-Focus,High-Protein
+28,Female,184,60,17.7,Weight Loss,Moderate,Medium,High-Protein,Basic,None,Cardio-Focus,Low-Calorie
+18,Female,181,85,25.9,Weight Loss,Moderate,High,Balanced,Gym,Joint Pain,Low-Impact,Balanced
+35,Other,156,69,28.4,Maintenance,Light,Medium,Vegetarian,Bodyweight,None,Beginner-Home,Balanced
+26,Female,176,87,28.1,Maintenance,Sedentary,Low,Balanced,Basic,None,Beginner-Home,Balanced
+26,Male,164,71,26.4,Weight Loss,Moderate,Medium,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+44,Other,183,66,19.7,Muscle Gain,Active,Medium,Balanced,Basic,None,Strength-Focus,High-Protein
+43,Male,167,54,19.4,Weight Loss,Moderate,Medium,Balanced,Gym,None,Cardio-Focus,Low-Calorie
+29,Male,189,70,19.6,Muscle Gain,Moderate,Medium,High-Protein,Basic,None,Strength-Focus,High-Protein
+35,Male,179,80,25.0,Weight Loss,Light,Medium,Vegetarian,Bodyweight,Hypertension,Low-Impact,Balanced
+36,Other,179,77,24.0,Weight Loss,Moderate,Medium,Balanced,Gym,None,Cardio-Focus,Low-Calorie
+18,Female,153,89,38.0,Weight Loss,Sedentary,Medium,Balanced,Basic,None,Beginner-Home,Low-Calorie
+23,Other,188,55,15.6,Muscle Gain,Moderate,High,Vegetarian,Gym,Hypertension,Low-Impact,Balanced
+17,Male,171,55,18.8,Weight Loss,Moderate,High,Balanced,Gym,None,Cardio-Focus,Balanced
+30,Other,155,62,25.8,Weight Loss,Moderate,Low,Balanced,Basic,None,Cardio-Focus,Low-Calorie
+35,Male,177,63,20.1,Muscle Gain,Active,Medium,Vegetarian,Bodyweight,None,Intermediate-Gym,High-Protein
+41,Other,159,55,21.8,Maintenance,Sedentary,Medium,Vegetarian,Basic,None,Beginner-Home,Balanced
+23,Other,169,82,28.7,Maintenance,Light,Low,Balanced,Bodyweight,None,Beginner-Home,Balanced
+41,Male,180,59,18.2,Muscle Gain,Active,Medium,Balanced,Gym,Hypertension,Low-Impact,Balanced
+37,Male,177,90,28.7,Weight Loss,Moderate,Low,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+26,Female,153,68,29.0,Weight Loss,Light,Medium,Vegetarian,Bodyweight,None,Beginner-Home,Low-Calorie
+28,Other,167,58,20.8,Weight Loss,Active,Low,High-Protein,Bodyweight,None,Cardio-Focus,Low-Calorie
+30,Female,162,78,29.7,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+44,Female,173,92,30.7,Muscle Gain,Active,Medium,Balanced,Basic,None,Strength-Focus,High-Protein
+44,Male,170,55,19.0,Weight Loss,Light,Medium,Vegetarian,Basic,Hypertension,Low-Impact,Balanced
+36,Other,172,57,19.3,Maintenance,Light,Medium,Low-Calorie,Bodyweight,Diabetes,Low-Impact,Balanced
+19,Male,169,56,19.6,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+34,Other,158,89,35.7,Weight Loss,Active,High,Vegetarian,Basic,Joint Pain,Low-Impact,Balanced
+42,Female,160,79,30.9,Muscle Gain,Light,Low,Balanced,Basic,Hypertension,Low-Impact,Balanced
+30,Female,150,82,36.4,Weight Loss,Moderate,Low,Balanced,Basic,None,Cardio-Focus,Low-Calorie
+20,Other,174,73,24.1,Muscle Gain,Moderate,Medium,High-Protein,Bodyweight,Diabetes,Low-Impact,Balanced
+26,Male,161,90,34.7,Maintenance,Sedentary,Low,Low-Calorie,Gym,Diabetes,Low-Impact,Balanced
+37,Female,171,78,26.7,Muscle Gain,Sedentary,Low,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+23,Female,168,77,27.3,Maintenance,Moderate,Medium,Balanced,Bodyweight,None,Beginner-Home,Balanced
+44,Male,187,89,25.5,Weight Loss,Light,Medium,Vegetarian,Basic,None,Beginner-Home,Low-Calorie
+17,Male,183,82,24.5,Muscle Gain,Active,Medium,Balanced,Basic,Hypertension,Low-Impact,Balanced
+32,Female,188,87,24.6,Maintenance,Moderate,High,Balanced,Bodyweight,None,Beginner-Home,Balanced
+38,Male,185,90,26.3,Weight Loss,Light,Medium,High-Protein,Gym,None,Beginner-Home,Low-Calorie
+44,Other,160,94,36.7,Weight Loss,Moderate,Medium,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+21,Female,156,61,25.1,Weight Loss,Very Active,Low,Balanced,Bodyweight,None,Beginner-Home,Low-Calorie
+39,Female,150,64,28.4,Weight Loss,Moderate,Medium,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+29,Male,183,70,20.9,Weight Loss,Very Active,Low,Balanced,Bodyweight,None,Beginner-Home,Low-Calorie
+25,Other,183,83,24.8,Weight Loss,Light,Medium,High-Protein,Bodyweight,None,Beginner-Home,Low-Calorie
+37,Female,159,75,29.7,Weight Loss,Sedentary,Medium,Balanced,Bodyweight,Hypertension,Low-Impact,Balanced
+31,Male,151,74,32.5,Muscle Gain,Moderate,High,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+32,Other,177,52,16.6,Maintenance,Light,High,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+44,Female,157,74,30.0,Weight Loss,Sedentary,Low,Balanced,Basic,None,Beginner-Home,Low-Calorie
+28,Other,156,69,28.4,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+18,Male,152,74,32.0,Muscle Gain,Moderate,Low,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+35,Other,151,51,22.4,Maintenance,Light,Low,Vegetarian,Bodyweight,Hypertension,Low-Impact,Balanced
+41,Other,179,65,20.3,Maintenance,Moderate,Medium,Balanced,Gym,Hypertension,Low-Impact,Balanced
+36,Other,177,64,20.4,Maintenance,Active,Medium,Balanced,Basic,Diabetes,Low-Impact,Balanced
+29,Male,159,70,27.7,Weight Loss,Sedentary,High,Balanced,Basic,Joint Pain,Low-Impact,Balanced
+23,Female,183,53,15.8,Weight Loss,Light,High,Balanced,Gym,None,Beginner-Home,Balanced
+25,Female,186,60,17.3,Muscle Gain,Sedentary,Medium,Balanced,Basic,None,Strength-Focus,High-Protein
+40,Female,169,78,27.3,Maintenance,Sedentary,Medium,Vegetarian,Basic,Hypertension,Low-Impact,Balanced
+41,Male,162,93,35.4,Weight Loss,Active,Low,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+27,Male,168,61,21.6,Maintenance,Very Active,Medium,High-Protein,Gym,None,Intermediate-Gym,Balanced
+25,Other,152,54,23.4,Maintenance,Very Active,Medium,High-Protein,Bodyweight,None,Beginner-Home,Balanced
+41,Other,158,81,32.4,Muscle Gain,Light,High,Balanced,Gym,None,Strength-Focus,High-Protein
+22,Other,161,62,23.9,Weight Loss,Light,Medium,Vegetarian,Bodyweight,None,Beginner-Home,Low-Calorie
+32,Other,156,66,27.1,Weight Loss,Light,High,High-Protein,Basic,None,Beginner-Home,Balanced
+42,Female,157,64,26.0,Muscle Gain,Moderate,Medium,Vegetarian,Bodyweight,None,Intermediate-Gym,High-Protein
+17,Other,168,70,24.8,Muscle Gain,Active,Medium,Vegetarian,Gym,Diabetes,Low-Impact,Balanced
+43,Male,181,53,16.2,Weight Loss,Light,Medium,Balanced,Bodyweight,Hypertension,Low-Impact,Balanced
+31,Other,151,53,23.2,Weight Loss,Moderate,High,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+43,Male,176,94,30.3,Maintenance,Light,High,Balanced,Basic,None,Beginner-Home,Balanced
+28,Female,162,86,32.8,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+28,Other,154,53,22.3,Weight Loss,Light,Low,Balanced,Basic,None,Beginner-Home,Low-Calorie
+24,Male,180,58,17.9,Weight Loss,Light,Medium,Balanced,Basic,None,Beginner-Home,Low-Calorie
+28,Female,163,73,27.5,Weight Loss,Moderate,Medium,High-Protein,Gym,Hypertension,Low-Impact,Balanced
+35,Female,166,83,30.1,Weight Loss,Light,Medium,High-Protein,Gym,None,Beginner-Home,Low-Calorie
+41,Male,166,55,20.0,Weight Loss,Moderate,Medium,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+38,Female,182,57,17.2,Muscle Gain,Sedentary,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+22,Female,164,74,27.5,Maintenance,Light,Medium,Balanced,Gym,Hypertension,Low-Impact,Balanced
+26,Male,185,87,25.4,Weight Loss,Moderate,Low,Balanced,Gym,Hypertension,Low-Impact,Balanced
+21,Other,172,77,26.0,Maintenance,Moderate,High,Balanced,Bodyweight,None,Beginner-Home,Balanced
+27,Female,183,82,24.5,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+19,Other,189,87,24.4,Weight Loss,Moderate,Medium,High-Protein,Gym,Diabetes,Low-Impact,Balanced
+34,Male,176,92,29.7,Weight Loss,Light,High,Balanced,Bodyweight,None,Beginner-Home,Balanced
+28,Male,153,73,31.2,Weight Loss,Moderate,Medium,High-Protein,Basic,Hypertension,Low-Impact,Balanced
+23,Female,163,94,35.4,Weight Loss,Very Active,Medium,Vegetarian,Gym,None,Beginner-Home,Low-Calorie
+17,Female,171,87,29.8,Maintenance,Moderate,Medium,Balanced,Gym,None,Intermediate-Gym,Balanced
+28,Male,157,66,26.8,Weight Loss,Moderate,High,Balanced,Bodyweight,Hypertension,Low-Impact,Balanced
+34,Male,181,54,16.5,Weight Loss,Light,Medium,Low-Calorie,Bodyweight,Diabetes,Low-Impact,Balanced
+21,Other,154,73,30.8,Weight Loss,Moderate,Medium,Vegetarian,Basic,None,Cardio-Focus,Low-Calorie
+38,Female,155,67,27.9,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+35,Female,186,72,20.8,Weight Loss,Sedentary,Low,Balanced,Gym,Hypertension,Low-Impact,Balanced
+27,Female,158,51,20.4,Maintenance,Moderate,Medium,Vegetarian,Basic,None,Beginner-Home,Balanced
+17,Other,152,58,25.1,Maintenance,Very Active,Medium,Vegetarian,Gym,None,Intermediate-Gym,Balanced
+43,Other,170,75,26.0,Maintenance,Very Active,Medium,Low-Calorie,Bodyweight,None,Beginner-Home,Balanced
+21,Female,173,65,21.7,Weight Loss,Light,Low,Balanced,Gym,None,Beginner-Home,Low-Calorie
+22,Male,154,78,32.9,Weight Loss,Moderate,Medium,High-Protein,Basic,None,Cardio-Focus,Low-Calorie
+34,Other,174,71,23.5,Muscle Gain,Light,Low,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+40,Female,178,58,18.3,Muscle Gain,Light,Medium,Vegetarian,Bodyweight,None,Intermediate-Gym,High-Protein
+41,Female,181,65,19.8,Weight Loss,Moderate,Medium,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+35,Other,151,75,32.9,Maintenance,Sedentary,Medium,Balanced,Bodyweight,None,Beginner-Home,Balanced
+17,Male,187,59,16.9,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+19,Other,164,92,34.2,Muscle Gain,Light,High,Vegetarian,Bodyweight,Joint Pain,Low-Impact,Balanced
+34,Female,153,56,23.9,Maintenance,Active,Medium,Balanced,Bodyweight,None,Beginner-Home,Balanced
+40,Male,160,74,28.9,Weight Loss,Light,Medium,Low-Calorie,Bodyweight,None,Beginner-Home,Low-Calorie
+43,Female,167,54,19.4,Muscle Gain,Sedentary,Low,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+31,Other,157,89,36.1,Weight Loss,Active,Medium,High-Protein,Basic,None,Cardio-Focus,Low-Calorie
+22,Male,168,81,28.7,Weight Loss,Sedentary,Medium,Balanced,Basic,Diabetes,Low-Impact,Balanced
+43,Male,164,66,24.5,Weight Loss,Active,High,Balanced,Basic,None,Cardio-Focus,Balanced
+32,Other,164,75,27.9,Muscle Gain,Light,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+39,Female,159,59,23.3,Muscle Gain,Moderate,Low,Vegetarian,Gym,None,Strength-Focus,High-Protein
+30,Male,174,61,20.1,Weight Loss,Light,Medium,Vegetarian,Basic,None,Beginner-Home,Low-Calorie
+22,Female,181,56,17.1,Weight Loss,Sedentary,Low,Vegetarian,Bodyweight,None,Beginner-Home,Low-Calorie
+21,Female,181,51,15.6,Maintenance,Active,Low,Balanced,Basic,None,Beginner-Home,Balanced
+30,Female,166,93,33.7,Maintenance,Moderate,High,Vegetarian,Gym,None,Intermediate-Gym,Balanced
+26,Other,183,91,27.2,Weight Loss,Light,High,Balanced,Basic,None,Beginner-Home,Balanced
+40,Male,182,93,28.1,Weight Loss,Very Active,Low,Low-Calorie,Basic,None,Beginner-Home,Low-Calorie
+35,Female,185,52,15.2,Maintenance,Moderate,Medium,Vegetarian,Basic,None,Beginner-Home,Balanced
+37,Female,172,92,31.1,Muscle Gain,Active,Medium,High-Protein,Basic,Diabetes,Low-Impact,Balanced
+17,Male,158,58,23.2,Maintenance,Light,Medium,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+21,Male,161,89,34.3,Weight Loss,Very Active,Low,Balanced,Gym,None,Beginner-Home,Low-Calorie
+18,Male,157,52,21.1,Maintenance,Moderate,High,Vegetarian,Basic,Hypertension,Low-Impact,Balanced
+44,Female,176,63,20.3,Muscle Gain,Very Active,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+39,Male,160,87,34.0,Muscle Gain,Light,Medium,Balanced,Basic,None,Strength-Focus,High-Protein
+19,Other,172,52,17.6,Weight Loss,Active,Low,High-Protein,Basic,None,Cardio-Focus,Low-Calorie
+44,Female,176,60,19.4,Muscle Gain,Active,Medium,Balanced,Basic,None,Strength-Focus,High-Protein
+36,Male,170,51,17.6,Muscle Gain,Very Active,Medium,High-Protein,Basic,Joint Pain,Low-Impact,Balanced
+40,Female,168,93,33.0,Muscle Gain,Light,Medium,Balanced,Gym,None,Strength-Focus,High-Protein
+26,Other,177,60,19.2,Weight Loss,Sedentary,Medium,Balanced,Bodyweight,None,Beginner-Home,Low-Calorie
+44,Male,160,67,26.2,Maintenance,Moderate,Medium,Balanced,Basic,None,Beginner-Home,Balanced
+44,Male,160,50,19.5,Maintenance,Very Active,High,High-Protein,Gym,Diabetes,Low-Impact,Balanced
+37,Female,187,72,20.6,Muscle Gain,Light,Medium,Balanced,Gym,None,Strength-Focus,High-Protein
+29,Male,152,60,26.0,Muscle Gain,Active,Low,Balanced,Basic,None,Strength-Focus,High-Protein
+43,Female,172,93,31.4,Weight Loss,Active,Medium,Balanced,Basic,None,Cardio-Focus,Low-Calorie
+19,Male,184,54,15.9,Weight Loss,Light,Medium,Balanced,Basic,Diabetes,Low-Impact,Balanced
+26,Other,174,80,26.4,Muscle Gain,Moderate,Medium,High-Protein,Gym,None,Strength-Focus,High-Protein
+44,Other,172,59,19.9,Weight Loss,Moderate,Medium,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+18,Male,182,56,16.9,Maintenance,Active,High,High-Protein,Bodyweight,None,Beginner-Home,Balanced
+33,Male,175,52,17.0,Muscle Gain,Moderate,Medium,Vegetarian,Bodyweight,None,Intermediate-Gym,High-Protein
+32,Female,175,67,21.9,Muscle Gain,Active,High,High-Protein,Bodyweight,Diabetes,Low-Impact,Balanced
+30,Female,158,93,37.3,Weight Loss,Light,Medium,Balanced,Bodyweight,Hypertension,Low-Impact,Balanced
+21,Female,153,79,33.7,Maintenance,Moderate,Low,High-Protein,Bodyweight,Joint Pain,Low-Impact,Balanced
+27,Female,183,82,24.5,Weight Loss,Moderate,High,Vegetarian,Bodyweight,Joint Pain,Low-Impact,Balanced
+34,Other,185,94,27.5,Muscle Gain,Sedentary,Medium,High-Protein,Basic,Joint Pain,Low-Impact,Balanced
+39,Female,175,64,20.9,Weight Loss,Moderate,Medium,Balanced,Gym,None,Cardio-Focus,Low-Calorie
+29,Male,166,70,25.4,Weight Loss,Moderate,High,High-Protein,Basic,Hypertension,Low-Impact,Balanced
+25,Male,167,76,27.3,Weight Loss,Moderate,High,Vegetarian,Basic,Diabetes,Low-Impact,Balanced
+37,Female,150,58,25.8,Maintenance,Light,Low,Balanced,Bodyweight,None,Beginner-Home,Balanced
+24,Other,165,54,19.8,Maintenance,Moderate,Medium,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+34,Male,182,53,16.0,Maintenance,Sedentary,Medium,Vegetarian,Basic,None,Beginner-Home,Balanced
+29,Other,175,57,18.6,Weight Loss,Moderate,Low,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+26,Male,161,92,35.5,Weight Loss,Moderate,Medium,High-Protein,Basic,Joint Pain,Low-Impact,Balanced
+23,Male,180,79,24.4,Muscle Gain,Sedentary,Medium,High-Protein,Basic,None,Strength-Focus,High-Protein
+43,Other,152,79,34.2,Weight Loss,Moderate,Medium,Balanced,Basic,None,Cardio-Focus,Low-Calorie
+35,Female,159,76,30.1,Muscle Gain,Light,Medium,Low-Calorie,Basic,Joint Pain,Low-Impact,Balanced
+39,Female,152,67,29.0,Maintenance,Light,Medium,Vegetarian,Basic,Joint Pain,Low-Impact,Balanced
+30,Male,169,86,30.1,Weight Loss,Active,Medium,High-Protein,Gym,None,Cardio-Focus,Low-Calorie
+34,Female,163,78,29.4,Muscle Gain,Moderate,Low,Balanced,Gym,Joint Pain,Low-Impact,Balanced
+30,Other,183,58,17.3,Maintenance,Moderate,High,Balanced,Bodyweight,None,Beginner-Home,Balanced
+36,Male,162,52,19.8,Muscle Gain,Moderate,Low,Balanced,Gym,None,Strength-Focus,High-Protein
+32,Other,183,82,24.5,Weight Loss,Light,Medium,Low-Calorie,Basic,Joint Pain,Low-Impact,Balanced
+24,Male,175,62,20.2,Maintenance,Moderate,High,High-Protein,Basic,None,Beginner-Home,Balanced
+43,Other,181,94,28.7,Weight Loss,Moderate,Low,Balanced,Gym,Hypertension,Low-Impact,Balanced
+27,Male,187,83,23.7,Muscle Gain,Moderate,Low,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+35,Female,170,75,26.0,Muscle Gain,Active,Low,Balanced,Basic,Diabetes,Low-Impact,Balanced
+17,Female,188,77,21.8,Maintenance,Light,High,Balanced,Basic,None,Beginner-Home,Balanced
+18,Male,172,53,17.9,Muscle Gain,Active,High,Balanced,Basic,None,Strength-Focus,High-Protein
+25,Other,184,56,16.5,Maintenance,Sedentary,Low,Balanced,Bodyweight,None,Beginner-Home,Balanced
+42,Other,170,90,31.1,Weight Loss,Moderate,High,Balanced,Bodyweight,None,Cardio-Focus,Balanced
+42,Other,177,64,20.4,Maintenance,Moderate,Medium,Balanced,Gym,None,Intermediate-Gym,Balanced
+24,Female,187,81,23.2,Weight Loss,Sedentary,High,Balanced,Basic,None,Beginner-Home,Balanced
+30,Male,150,87,38.7,Weight Loss,Moderate,Medium,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+35,Other,153,91,38.9,Muscle Gain,Sedentary,High,Balanced,Gym,None,Strength-Focus,High-Protein
+39,Male,161,76,29.3,Muscle Gain,Light,Medium,Balanced,Gym,None,Strength-Focus,High-Protein
+30,Other,181,92,28.1,Maintenance,Light,High,Balanced,Bodyweight,None,Beginner-Home,Balanced
+36,Male,188,59,16.7,Muscle Gain,Light,High,Balanced,Bodyweight,Diabetes,Low-Impact,Balanced
+44,Male,169,52,18.2,Maintenance,Very Active,Medium,Balanced,Bodyweight,None,Beginner-Home,Balanced
+43,Other,185,68,19.9,Weight Loss,Moderate,Medium,Vegetarian,Bodyweight,None,Cardio-Focus,Low-Calorie
+27,Other,178,68,21.5,Weight Loss,Very Active,Low,Low-Calorie,Bodyweight,Diabetes,Low-Impact,Balanced
+40,Female,175,55,18.0,Maintenance,Moderate,Medium,Low-Calorie,Bodyweight,None,Beginner-Home,Balanced
+40,Male,187,85,24.3,Weight Loss,Active,Medium,Vegetarian,Bodyweight,Hypertension,Low-Impact,Balanced
+36,Other,175,76,24.8,Maintenance,Very Active,Medium,Vegetarian,Basic,Hypertension,Low-Impact,Balanced
+17,Male,174,59,19.5,Muscle Gain,Sedentary,Low,Vegetarian,Basic,None,Strength-Focus,High-Protein
+39,Female,164,66,24.5,Maintenance,Very Active,Medium,Low-Calorie,Basic,None,Beginner-Home,Balanced
+32,Female,178,93,29.4,Maintenance,Active,Low,Vegetarian,Bodyweight,None,Beginner-Home,Balanced
+40,Female,174,80,26.4,Maintenance,Light,Medium,Balanced,Bodyweight,None,Beginner-Home,Balanced
+38,Female,172,85,28.7,Muscle Gain,Active,Low,Balanced,Basic,None,Strength-Focus,High-Protein
+25,Other,171,78,26.7,Maintenance,Light,Medium,Low-Calorie,Bodyweight,None,Beginner-Home,Balanced
+35,Female,162,70,26.7,Maintenance,Moderate,Medium,High-Protein,Bodyweight,Joint Pain,Low-Impact,Balanced
+38,Female,184,75,22.2,Weight Loss,Sedentary,Medium,Low-Calorie,Bodyweight,None,Beginner-Home,Low-Calorie
+26,Male,155,69,28.7,Muscle Gain,Sedentary,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+25,Male,161,91,35.1,Maintenance,Light,Medium,High-Protein,Basic,None,Beginner-Home,Balanced
+28,Other,161,58,22.4,Weight Loss,Sedentary,Medium,Balanced,Bodyweight,None,Beginner-Home,Low-Calorie
+18,Male,168,94,33.3,Muscle Gain,Moderate,Low,Balanced,Bodyweight,Diabetes,Low-Impact,Balanced
+21,Other,152,74,32.0,Muscle Gain,Light,Low,High-Protein,Bodyweight,None,Intermediate-Gym,High-Protein
+33,Other,159,63,24.9,Weight Loss,Light,Medium,Vegetarian,Basic,None,Beginner-Home,Low-Calorie
+42,Female,170,79,27.3,Weight Loss,Sedentary,Medium,Vegetarian,Bodyweight,None,Beginner-Home,Low-Calorie
+25,Female,181,83,25.3,Weight Loss,Moderate,Medium,Balanced,Bodyweight,Diabetes,Low-Impact,Balanced
+22,Female,184,76,22.4,Weight Loss,Moderate,Medium,Low-Calorie,Gym,Diabetes,Low-Impact,Balanced
+24,Female,162,70,26.7,Weight Loss,Moderate,Medium,Low-Calorie,Bodyweight,Hypertension,Low-Impact,Balanced
+24,Male,157,90,36.5,Muscle Gain,Moderate,Medium,Low-Calorie,Bodyweight,None,Intermediate-Gym,High-Protein
+35,Male,150,94,41.8,Maintenance,Active,Low,High-Protein,Basic,None,Beginner-Home,Balanced
+19,Other,163,92,34.6,Maintenance,Moderate,High,Balanced,Gym,Diabetes,Low-Impact,Balanced
+42,Other,154,60,25.3,Weight Loss,Light,Medium,High-Protein,Bodyweight,None,Beginner-Home,Low-Calorie
+29,Other,177,54,17.2,Maintenance,Active,Medium,Vegetarian,Gym,None,Intermediate-Gym,Balanced
+41,Other,189,65,18.2,Muscle Gain,Sedentary,Medium,High-Protein,Bodyweight,Joint Pain,Low-Impact,Balanced
+41,Other,189,85,23.8,Muscle Gain,Moderate,High,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+41,Male,151,86,37.7,Muscle Gain,Sedentary,Medium,Balanced,Basic,None,Strength-Focus,High-Protein
+31,Female,177,73,23.3,Muscle Gain,Very Active,High,Vegetarian,Bodyweight,None,Intermediate-Gym,High-Protein
+39,Male,182,92,27.8,Muscle Gain,Moderate,Medium,Balanced,Gym,Joint Pain,Low-Impact,Balanced
+33,Female,184,54,15.9,Maintenance,Light,Medium,Balanced,Basic,None,Beginner-Home,Balanced
+41,Other,157,80,32.5,Muscle Gain,Light,High,Balanced,Bodyweight,Diabetes,Low-Impact,Balanced
+38,Male,162,82,31.2,Weight Loss,Active,Low,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+35,Male,188,92,26.0,Muscle Gain,Sedentary,High,High-Protein,Bodyweight,Joint Pain,Low-Impact,Balanced
+30,Other,178,73,23.0,Weight Loss,Moderate,Medium,Vegetarian,Basic,None,Cardio-Focus,Low-Calorie
+41,Other,184,85,25.1,Muscle Gain,Light,High,Vegetarian,Bodyweight,None,Intermediate-Gym,High-Protein
+26,Female,172,50,16.9,Maintenance,Light,Medium,Vegetarian,Basic,None,Beginner-Home,Balanced
+29,Female,178,60,18.9,Muscle Gain,Sedentary,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+42,Other,188,91,25.7,Weight Loss,Active,Medium,Balanced,Basic,None,Cardio-Focus,Low-Calorie
+44,Male,177,78,24.9,Weight Loss,Sedentary,Medium,Vegetarian,Bodyweight,None,Beginner-Home,Low-Calorie
+36,Other,179,82,25.6,Weight Loss,Very Active,High,Balanced,Bodyweight,None,Beginner-Home,Balanced
+20,Male,154,81,34.2,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+33,Female,179,57,17.8,Weight Loss,Light,Low,High-Protein,Bodyweight,None,Beginner-Home,Low-Calorie
+30,Other,188,89,25.2,Maintenance,Sedentary,Medium,High-Protein,Gym,None,Intermediate-Gym,Balanced
+31,Male,181,76,23.2,Maintenance,Light,Low,Low-Calorie,Bodyweight,Hypertension,Low-Impact,Balanced
+26,Other,163,91,34.3,Weight Loss,Light,Medium,Balanced,Bodyweight,None,Beginner-Home,Low-Calorie
+32,Female,182,71,21.4,Maintenance,Light,High,Balanced,Bodyweight,Joint Pain,Low-Impact,Balanced
+33,Female,156,76,31.2,Weight Loss,Active,Medium,High-Protein,Basic,Joint Pain,Low-Impact,Balanced
+23,Male,171,56,19.2,Weight Loss,Light,Medium,Balanced,Bodyweight,None,Beginner-Home,Low-Calorie
+18,Male,157,88,35.7,Maintenance,Moderate,Low,Vegetarian,Bodyweight,None,Beginner-Home,Balanced
+43,Other,157,62,25.2,Weight Loss,Moderate,Medium,High-Protein,Basic,None,Cardio-Focus,Low-Calorie
+17,Male,169,77,27.0,Muscle Gain,Moderate,Medium,High-Protein,Bodyweight,None,Intermediate-Gym,High-Protein
+22,Male,161,94,36.3,Weight Loss,Very Active,Medium,High-Protein,Bodyweight,Hypertension,Low-Impact,Balanced
+39,Female,175,85,27.8,Muscle Gain,Sedentary,Medium,High-Protein,Bodyweight,None,Intermediate-Gym,High-Protein
+18,Female,174,89,29.4,Maintenance,Light,Low,High-Protein,Bodyweight,Joint Pain,Low-Impact,Balanced
+25,Male,157,64,26.0,Weight Loss,Active,Medium,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+24,Female,189,50,14.0,Maintenance,Sedentary,High,Balanced,Basic,Diabetes,Low-Impact,Balanced
+24,Male,157,52,21.1,Weight Loss,Active,Low,High-Protein,Gym,None,Cardio-Focus,Low-Calorie
+41,Male,172,62,21.0,Maintenance,Light,Medium,Vegetarian,Basic,None,Beginner-Home,Balanced
+40,Other,156,59,24.2,Muscle Gain,Moderate,High,High-Protein,Basic,None,Strength-Focus,High-Protein
+42,Male,165,63,23.1,Maintenance,Sedentary,Medium,Balanced,Basic,None,Beginner-Home,Balanced
+32,Other,176,91,29.4,Muscle Gain,Sedentary,High,Low-Calorie,Gym,None,Strength-Focus,High-Protein
+41,Male,164,62,23.1,Maintenance,Sedentary,Low,Balanced,Bodyweight,Diabetes,Low-Impact,Balanced
+32,Male,165,71,26.1,Maintenance,Moderate,Medium,Low-Calorie,Basic,Diabetes,Low-Impact,Balanced
+34,Other,155,52,21.6,Muscle Gain,Moderate,High,Balanced,Bodyweight,Hypertension,Low-Impact,Balanced
+20,Other,157,88,35.7,Muscle Gain,Moderate,Medium,Balanced,Basic,Diabetes,Low-Impact,Balanced
+27,Other,181,88,26.9,Weight Loss,Light,Medium,Balanced,Basic,None,Beginner-Home,Low-Calorie
+25,Male,156,66,27.1,Maintenance,Light,Medium,Balanced,Basic,None,Beginner-Home,Balanced
+34,Other,188,84,23.8,Weight Loss,Moderate,Low,Vegetarian,Bodyweight,None,Cardio-Focus,Low-Calorie
+44,Other,165,92,33.8,Muscle Gain,Sedentary,Medium,Vegetarian,Basic,None,Strength-Focus,High-Protein
+30,Male,188,84,23.8,Weight Loss,Moderate,Low,Balanced,Bodyweight,None,Cardio-Focus,Low-Calorie
+25,Female,183,72,21.5,Weight Loss,Light,Medium,Balanced,Bodyweight,None,Beginner-Home,Low-Calorie
+31,Other,156,65,26.7,Maintenance,Moderate,High,Vegetarian,Basic,None,Beginner-Home,Balanced
+24,Female,183,60,17.9,Weight Loss,Moderate,High,Low-Calorie,Bodyweight,None,Cardio-Focus,Balanced
+22,Female,161,87,33.6,Weight Loss,Active,Medium,High-Protein,Bodyweight,None,Cardio-Focus,Low-Calorie
+19,Male,183,76,22.7,Maintenance,Light,Medium,Balanced,Bodyweight,Diabetes,Low-Impact,Balanced
+20,Male,184,63,18.6,Muscle Gain,Moderate,Medium,Balanced,Bodyweight,None,Intermediate-Gym,High-Protein
+23,Male,169,73,25.6,Muscle Gain,Light,Low,Low-Calorie,Bodyweight,None,Intermediate-Gym,High-Protein
+19,Male,182,68,20.5,Weight Loss,Light,Medium,Vegetarian,Basic,None,Beginner-Home,Low-Calorie
+19,Male,182,76,22.9,Weight Loss,Moderate,Low,High-Protein,Basic,None,Cardio-Focus,Low-Calorie
+17,Female,189,76,21.3,Weight Loss,Light,Low,Balanced,Basic,None,Beginner-Home,Low-Calorie
+26,Other,165,69,25.3,Muscle Gain,Active,Medium,High-Protein,Gym,None,Strength-Focus,High-Protein
+42,Female,163,90,33.9,Muscle Gain,Active,Medium,Vegetarian,Gym,None,Strength-Focus,High-Protein
+43,Female,187,65,18.6,Weight Loss,Active,Medium,High-Protein,Gym,None,Cardio-Focus,Low-Calorie
+41,Male,154,63,26.6,Weight Loss,Moderate,Low,Balanced,Basic,Hypertension,Low-Impact,Balanced
+19,Other,151,86,37.7,Maintenance,Active,Medium,High-Protein,Basic,Diabetes,Low-Impact,Balanced
+20,Male,182,79,23.8,Maintenance,Light,Medium,Vegetarian,Gym,None,Intermediate-Gym,Balanced
+29,Male,163,65,24.5,Maintenance,Moderate,Medium,High-Protein,Bodyweight,Diabetes,Low-Impact,Balanced
+34,Other,167,59,21.2,Weight Loss,Sedentary,Medium,Balanced,Bodyweight,None,Beginner-Home,Low-Calorie

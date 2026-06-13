@@ -1,0 +1,24 @@
+
+services:
+  - type: web
+    name: fitness-planner-api
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt && python backend/train_model.py
+    startCommand: python backend/app.py
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: FLASK_DEBUG
+        value: "false"
+    region: oregon
+    numInstances: 1
+    healthCheckPath: /
+
+  - type: static_site
+    name: fitness-planner-frontend
+    staticPublishPath: ./frontend
+    buildCommand: echo "Frontend ready for deployment"
+    routes:
+      - path: /
+        destination: /index.html
